@@ -12,7 +12,7 @@ RUN apt-get update \
 # https://github.com/gitpod-io/openvscode-server/blob/main/docs/development.md
 RUN git clone https://github.com/gitpod-io/openvscode-server && \
     cd openvscode-server && \
-    git checkout openvscode-server-v1.62.0 && \
+    git checkout openvscode-server-v1.61.0 && \
     yarn && yarn gulp server-min
 
 # https://github.com/gitpod-io/openvscode-releases/blob/main/Dockerfile
