@@ -1,3 +1,5 @@
+(Update: upstream gitpod/openvscode-server offer ARMv7 and ARM64 images. Hence no more update on this build)
+
 # docker-openvscode-server
 
 It is an (alternative) arm64 and amd64 build of [openvscode-server](https://github.com/gitpod-io/openvscode-server).
