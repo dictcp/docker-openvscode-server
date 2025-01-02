@@ -1,4 +1,4 @@
-(Update: upstream gitpod/openvscode-server offer ARMv7 and ARM64 images. Hence no more update on this build)
+> ⚠️ No further update on this build due to upstream offering on gitpod/openvscode-server ARMv7 and ARM64 images.
 
 # docker-openvscode-server
 
